@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://pedreiroprogramador.com/"
+baseURL = "https://618d31465982e800ba925465--kind-wescoff-e17f56.netlify.app/"
 title = 'Pedreiro Programador'
 theme = "twenty-twenty-hugo"
 languageName = "PT-BR"
