@@ -9,4 +9,3 @@ builds
 package-lock.json
 public
 .hugo_build.lock
-themes/twenty-twenty-hugo/
